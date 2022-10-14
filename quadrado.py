@@ -1,0 +1,5 @@
+areadoquadrado = input('Digite o valor correspondente ao lado de um quadrado')
+temp = float (areadoquadrado)
+naoseioque1 = (temp * 4)
+naoseioque2 = (temp ** 2)
+print('perimetro:', naoseioque1, '- área:', naoseioque2)
